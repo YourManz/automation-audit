@@ -1,3 +1,5 @@
+> Live site: https://yourmanz.github.io/automation-audit/
+
 # Distribution Playbook — Automation Audit
 
 ## Target: Shopify store owners using Zapier or Make
